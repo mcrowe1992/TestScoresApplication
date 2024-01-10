@@ -135,7 +135,7 @@
             clearScoresButton.Name = "clearScoresButton";
             clearScoresButton.Size = new Size(88, 23);
             clearScoresButton.TabIndex = 10;
-            clearScoresButton.Text = "Clear scores";
+            clearScoresButton.Text = "Clear Scores";
             clearScoresButton.UseVisualStyleBackColor = true;
             clearScoresButton.Click += clearScoresButton_Click;
             // 
