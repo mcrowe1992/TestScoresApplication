@@ -82,7 +82,7 @@
             // 
             scoreTextBox.Location = new Point(197, 56);
             scoreTextBox.Name = "scoreTextBox";
-            scoreTextBox.Size = new Size(100, 23);
+            scoreTextBox.Size = new Size(124, 23);
             scoreTextBox.TabIndex = 4;
             // 
             // totalTextBox
@@ -90,7 +90,7 @@
             totalTextBox.Location = new Point(197, 114);
             totalTextBox.Name = "totalTextBox";
             totalTextBox.ReadOnly = true;
-            totalTextBox.Size = new Size(100, 23);
+            totalTextBox.Size = new Size(124, 23);
             totalTextBox.TabIndex = 5;
             // 
             // countTextBox
@@ -98,7 +98,7 @@
             countTextBox.Location = new Point(197, 171);
             countTextBox.Name = "countTextBox";
             countTextBox.ReadOnly = true;
-            countTextBox.Size = new Size(100, 23);
+            countTextBox.Size = new Size(124, 23);
             countTextBox.TabIndex = 6;
             // 
             // averageTextBox
@@ -106,14 +106,14 @@
             averageTextBox.Location = new Point(197, 222);
             averageTextBox.Name = "averageTextBox";
             averageTextBox.ReadOnly = true;
-            averageTextBox.Size = new Size(100, 23);
+            averageTextBox.Size = new Size(124, 23);
             averageTextBox.TabIndex = 7;
             // 
             // addButton
             // 
             addButton.Location = new Point(374, 57);
             addButton.Name = "addButton";
-            addButton.Size = new Size(75, 23);
+            addButton.Size = new Size(67, 23);
             addButton.TabIndex = 8;
             addButton.Text = "Add";
             addButton.UseVisualStyleBackColor = true;
