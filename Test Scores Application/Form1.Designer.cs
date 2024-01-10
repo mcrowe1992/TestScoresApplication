@@ -125,7 +125,7 @@
             displayScoresButton.Name = "displayScoresButton";
             displayScoresButton.Size = new Size(100, 23);
             displayScoresButton.TabIndex = 9;
-            displayScoresButton.Text = "Display scores";
+            displayScoresButton.Text = "Display Scores";
             displayScoresButton.UseVisualStyleBackColor = true;
             displayScoresButton.Click += displayScoresButton_Click;
             // 
