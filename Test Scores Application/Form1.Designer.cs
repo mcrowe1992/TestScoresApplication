@@ -113,7 +113,7 @@
             // 
             addButton.Location = new Point(374, 57);
             addButton.Name = "addButton";
-            addButton.Size = new Size(67, 23);
+            addButton.Size = new Size(92, 23);
             addButton.TabIndex = 8;
             addButton.Text = "Add";
             addButton.UseVisualStyleBackColor = true;
