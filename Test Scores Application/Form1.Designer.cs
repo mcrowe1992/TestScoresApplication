@@ -115,7 +115,7 @@
             addButton.Name = "addButton";
             addButton.Size = new Size(92, 23);
             addButton.TabIndex = 8;
-            addButton.Text = "Add";
+            addButton.Text = "Add Score";
             addButton.UseVisualStyleBackColor = true;
             addButton.Click += addButton_Click;
             // 
